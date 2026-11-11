@@ -1,35 +1,69 @@
-# portfolio-qa
-Portfólio de Quality Assurance com projetos de testes manuais, documentação de bugs, testes de API e automação de testes.
+# Portfólio de Quality Assurance
 
-Conhecimentos e ferramentas
+Bem-vindo ao meu portfólio de QA!
 
-Testes de software
-Testes manuais e funcionais
-es exploratórios
-Testes de regressão
-Criação e execução de casos de teste
-Documentação de bugs e evidências
+Este repositório reúne meus projetos práticos, estudos e atividades relacionadas a testes manuais, documentação de defeitos, testes de API e automação de testes.
 
-Tecnologias em estudo
+## Conhecimentos e ferramentas
 
-Cypress
-JavaScript
-Postman
-API REST
-Git e GitHub
+**Testes de software**
+- Testes manuais e funcionais
+- Testes exploratórios
+- Testes de regressão
+- Criação e execução de casos de teste
+- Documentação de bugs e evidências
+- Cenários de testes positivos e negativos
 
-Projetos de QA
+**Ferramentas e tecnologias**
+- Postman e API REST
+- Cypress
+- JavaScript
+- Git e GitHub
+- JSON
+- Google Sheets
+- Loom
 
-Projeto 01 — Testes manuais de e-commerce
+## Projetos de QA
 
-Status: Planejado
+### Projeto 01 — Testes Manuais de E-commerce
 
-Planejamento e execução de testes funcionais em um ambiente de e-commerce destinado à prática de QA.
+**Objetivo:** Praticar o planejamento, a criação e a execução de testes funcionais em um ambiente de e-commerce.
 
-Atividades previstas:
+**Atividades:**
+- Elaboração de cenários e casos de teste.
+- Execução de testes funcionais.
+- Registro de resultados e evidências.
+- Documentação de comportamentos inesperados.
 
-Criação de cenários e casos de teste
-Execução de testes positivos e negativos
-Validação de funcionalidades
-Documentação de resultados
-Registro de defeitos encontrados
+**[Acessar Projeto 01](./projeto-01-testes-manuais)**
+
+### Projeto 02 — Automação de Testes com Cypress
+
+**Objetivo:** Desenvolver conhecimentos em automação de testes utilizando Cypress e JavaScript.
+
+**Atividades:**
+- Criação de scripts de testes automatizados.
+- Execução de testes de funcionalidades web.
+- Prática com seletores, comandos e validações.
+- Organização dos scripts de automação.
+
+**[Acessar Projeto 02](./projeto-02-automacao-cypress)**
+
+### Projeto 03 — Testes de API REST com Postman
+
+**Objetivo:** Praticar requisições HTTP, autenticação e manipulação de dados utilizando Postman e a API ServeRest.
+
+**Atividades realizadas:**
+- Configuração de 9 requisições HTTP.
+- Utilização dos métodos GET, POST, PUT e DELETE.
+- Requisições de autenticação, usuários e produtos.
+- Manipulação de dados JSON.
+- Extração e armazenamento de token utilizando JavaScript.
+- Organização das requisições em coleções no Postman.
+
+**Melhorias em andamento:**
+- Implementação de testes automatizados de resposta.
+- Padronização da autenticação.
+- Ampliação dos cenários positivos e negativos.
+
+**[Acessar Projeto 03](./
